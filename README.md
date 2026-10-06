@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá! Me chamo Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul, tenho formação em Design Gráfico e também em Marketing.
 
-<!--
-**RodrigoBGallego/RodrigoBGallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      Experiências
+-Analista de banco de dados pela Ventana Informática no projeto do PROSAR
+-Professor de idiomas
+-Suporte técnico de um polo da Cruzeiro do Sul
+-Recenseador para o censo de 2010
+-Gestor de tráfego em redes da Meta
 
-Here are some ideas to get you started:
+      Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Python
+-SQL
+-Crystal Reports
+-HTML
+-CSS
+-Javascript
+-Perl
+-GDscript
+-Inglês fluente
+-Espanhol fluente
+
+     Soft skills
+-Paciente
+-Aprende rápido
+-Olho para detalhes
+-Organização
